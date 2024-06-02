@@ -1,0 +1,2 @@
+# QuadSolver
+Simple Quadratic Solver
